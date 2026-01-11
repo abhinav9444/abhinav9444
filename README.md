@@ -1,17 +1,26 @@
-<h1 align="center">Hi 👋, I'm Abhinav</h1>
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#58A6FF;">Abhinav</span>
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?
-  font=Fira+Code
-  &size=24
-  &pause=1000
-  &color=58A6FF
+  font=JetBrains+Mono
+  &size=22
+  &pause=1200
+  &color=7EE787
   &center=true
   &vCenter=true
-  &width=600
-  &lines=Secure+Software+Engineer;Cybersecurity+%26+AI+Enthusiast;Breaking+Systems+to+Secure+Them"
-  alt="Typing SVG" />
+  &width=650
+  &lines=Secure+Software+Engineer;Cybersecurity+%26+AI+Enthusiast"
+  alt="Typing Animation" />
 </p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58A6FF&height=120&section=header"/>
+</p>
+
+
 
 
 <br><br>🛠️ **I’m currently working on**<br><br>* Cybersecurity, AI & Secure Software Engineering projects<br>* 🤖 AI/ML-powered tools for **Cybersecurity**<br>* 🌐 Full-stack web applications with security-first design<br><br>🤝 **I’m looking to collaborate on**<br><br>* Open-source projects in **Cybersecurity, AI/ML, and Software Engineeing**<br>* Research-oriented projects related to **ethical hacking, threat detection, automation and Software Engineering**<br>*  Ethical hacking & security automation tools<br>* Innovative startup or product-based tech ideas<br><br>🧠 **I’m looking to collaborate on**<br><br>* Advanced **penetration testing & exploit development**<br>* **Secure system design** and real-world security standards<br>* Research guidance in **AI + Cybersecurity + Software Engineering** domains<br>* **cybersecurity tools, AI/ML applications, OSINT projects, and backend systems** that solve real-world problems.  <br><br>🌱 **I’m currently learning**<br><br>* **Advanced Cybersecurity** (Web, Network, Cloud, Mobile)<br>* **Machine Learning & AI** for security applications<br>* **MERN Stack** and scalable backend architectures<br>* Secure coding practices & software engineering principles<br>* Problem solving and DSA<br><br>💬 **Ask me about**<br><br>* Python & problem solving<br>* Cybersecurity fundamentals and tools<br>* Building creative cybersecurity projects<br>* AI/ML project ideas<br>* Building real-world tech projects.<br>* Data Structures and Algorithms<br>* Database Management System and Data Warehouses<br><br>⚡ **Fun fact**<br><br>* I love building **security tools from scratch** and breaking things just to understand how to protect them better 🔐<br><br>### 💻 Languages<br><br>![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge\&logo=python\&logoColor=yellow)<br>![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge\&logo=javascript)<br>![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge\&logo=cplusplus\&logoColor=blue)<br><br>### 🌐 Web & Frameworks<br><br>![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge\&logo=html5)<br>![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge\&logo=css3\&logoColor=blue)<br>![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge\&logo=node.js)<br>![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge\&logo=react)<br><br>### 🔐 Cybersecurity & Tools<br><br>![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge\&logo=linux)<br>![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge\&logo=git)<br>![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge\&logo=github)<br>![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge\&logo=kali-linux)<br>![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge\&logo=wireshark)<br><br>## 📊 GitHub Stats<br><br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api?username=AbhinavKumarSingh&show_icons=true&theme=tokyonight&hide_border=true" height="165"/><br>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavKumarSingh&theme=tokyonight&hide_border=true" height="165"/><br></p><br><br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavKumarSingh&layout=compact&theme=tokyonight&hide_border=true" height="150"/><br></p><br><br><br>## 🏆 Achievements<br><br>![HackerRank](https://img.shields.io/badge/HackerRank-Python_Gold_Badge-0d1117?style=for-the-badge\&logo=hackerrank\&logoColor=green)<br>![Cybersecurity](https://img.shields.io/badge/Certified-Cybersecurity_Professional-0d1117?style=for-the-badge\&logo=security)<br><br>## 📫 Connect With Me<br><br><p align="left"><br><a href="https://www.linkedin.com" target="_blank"><br>  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=blue"/><br></a><br><a href="https://github.com/AbhinavKumarSingh" target="_blank"><br>  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github"/><br></a><br></p>
