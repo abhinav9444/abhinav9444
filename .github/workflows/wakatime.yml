@@ -24,7 +24,7 @@ jobs:
 
           # 🔹 Language & formatting
           LOCALE: en
-          SYMBOL_VERSION: 1
+          SYMBOL_VERSION: 2
           SHOW_UPDATED_DATE: true
           UPDATED_DATE_FORMAT: "%d %b %Y %H:%M IST"
 
