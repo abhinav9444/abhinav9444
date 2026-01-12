@@ -24,9 +24,9 @@ jobs:
 
           # 🔹 Language & formatting
           LOCALE: en
-          SYMBOL_VERSION: 3
+          SYMBOL_VERSION: 1
           SHOW_UPDATED_DATE: true
-          UPDATED_DATE_FORMAT: "%d %b %Y %H:%M IST"
+          UPDATED_DATE_FORMAT: "%d %b %Y %H+5:%M+30 IST"
 
           # 🔹 Core stats
           SHOW_LANGUAGE: true
