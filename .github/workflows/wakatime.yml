@@ -30,7 +30,7 @@ jobs:
 
           # 🔹 Core stats
           SHOW_LANGUAGE: true
-          SHOW_OS: true
+          SHOW_OS: false
           SHOW_EDITORS: true
           SHOW_PROJECTS: false
           SHOW_TIMEZONE: true
