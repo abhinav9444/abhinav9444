@@ -1,20 +1,10 @@
-<h1 align="center">
-  Hi 👋, I'm <span style="color:#58A6FF;">Abhinav</span>
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-  font=JetBrains+Mono
-  &size=22
-  &pause=1200
-  &color=7EE787
-  &center=true
-  &vCenter=true
-  &width=650
-  &lines=Secure+Software+Engineer;Cybersecurity+%26+AI+Enthusiast"
-  alt="Typing Animation" />
-</p>
-
+<div align="center">
+<a href="https://git.io/typing-svg">
+  <div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3591F7&center=true&vCenter=true&width=1000&lines=Cybersecurity+Professional;Secure+Software+Developer;AI+%26+Machine+Learning;Securing+Digital+Space+%26+Infrastructure;Building+Robust+%26+Safe+Code" alt="Typing SVG" />
+</a>
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58A6FF&height=120&section=header"/>
