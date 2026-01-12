@@ -27,13 +27,79 @@
 ## 📊 Development Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-```txt
-Total Time: 0 secs
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-No activity tracked
+**🐱 My GitHub Data** 
+
+> 📦 17.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 14 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 26 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+🌆 Daytime                123 commits         █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+🌃 Evening                229 commits         █████████░░░░░░░░░░░░░░░░   34.59 % 
+🌙 Night                  220 commits         ████████░░░░░░░░░░░░░░░░░   33.23 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   94 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Tuesday                  273 commits         ██████████░░░░░░░░░░░░░░░   41.24 % 
+Wednesday                49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+Thursday                 101 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Friday                   23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Saturday                 81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Sunday                   41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               6 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+HTML                     4 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Python                   4 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+C                        4 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/abhinav9444/abhinav9444/main/assets/bar_graph.png)
+
+
+ Last Updated on 12 Jan 2026 00:30 IST UTC
 <!--END_SECTION:waka-->
 
 
