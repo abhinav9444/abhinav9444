@@ -11,6 +11,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - uses: actions/checkout@v5
+    
       - uses: anmol098/waka-readme-stats@master
     
         with:
