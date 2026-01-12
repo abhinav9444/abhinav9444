@@ -19,8 +19,6 @@
 ## 📊 Development Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-61.87%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -35,39 +33,6 @@
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-🌆 Daytime                156 commits         █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-🌃 Evening                282 commits         █████████░░░░░░░░░░░░░░░░   34.22 % 
-🌙 Night                  274 commits         ████████░░░░░░░░░░░░░░░░░   33.25 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   129 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Tuesday                  391 commits         ████████████░░░░░░░░░░░░░   47.45 % 
-Wednesday                53 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-Thursday                 104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Friday                   25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-Saturday                 81 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-Sunday                   41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -85,7 +50,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abhinav9444/abhinav9444/main/assets/bar_graph.png)
 
 
- Last Updated on 12 Jan 2026 17:26 UTC
+ Last Updated on 12 Jan 2026 18:36 UTC
 <!--END_SECTION:waka-->
 
 <!--
