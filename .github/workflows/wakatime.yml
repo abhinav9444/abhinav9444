@@ -26,7 +26,7 @@ jobs:
           LOCALE: en
           SYMBOL_VERSION: 1
           SHOW_UPDATED_DATE: true
-          UPDATED_DATE_FORMAT: "%d %b %Y %H+5:%M+30 IST"
+          UPDATED_DATE_FORMAT: "%d %b %Y %H:%M"
 
           # 🔹 Core stats
           SHOW_LANGUAGE: true
@@ -34,11 +34,7 @@ jobs:
           SHOW_EDITORS: true
           SHOW_PROJECTS: false
           SHOW_TIMEZONE: true
-
-          # 🔹 Language-per-repo section (THIS CHANGES THE SENTENCE)
-          SHOW_LANGUAGE_PER_REPO: true
-          LANGUAGE_PER_REPO_TEXT: "📊 Language Distribution Across Repositories "
-
+          
           # 🔹 GitHub-related stats (needs PAT with user scope)
           SHOW_PROFILE_VIEWS: false
           SHOW_COMMIT: true
@@ -47,7 +43,7 @@ jobs:
 
           # 🔹 Code stats
           SHOW_TOTAL_CODE_TIME: true
-          SHOW_LINES_OF_CODE: false   # heavy → keep false unless you want it
+          SHOW_LINES_OF_CODE: true   # heavy → keep false unless you want it
 
           # 🔹 Commit identity (optional, but clean)
           COMMIT_BY_ME: true
