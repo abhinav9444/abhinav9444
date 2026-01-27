@@ -19,7 +19,7 @@
 ## 📊 Development Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2034%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-62.55%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -35,39 +35,6 @@
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-🌆 Daytime                179 commits         █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
-🌃 Evening                289 commits         ████████░░░░░░░░░░░░░░░░░   33.80 % 
-🌙 Night                  275 commits         ████████░░░░░░░░░░░░░░░░░   32.16 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   136 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Tuesday                  399 commits         ████████████░░░░░░░░░░░░░   46.67 % 
-Wednesday                53 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-Thursday                 104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Friday                   25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-Saturday                 83 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Sunday                   55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-ABAP                     5 mins              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -85,7 +52,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abhinav9444/abhinav9444/main/assets/bar_graph.png)
 
 
- Last Updated on 27 Jan 2026 18:42 UTC
+ Last Updated on 27 Jan 2026 19:29 UTC
 <!--END_SECTION:waka-->
 
 <!--
