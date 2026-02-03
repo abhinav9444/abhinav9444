@@ -62,10 +62,10 @@ Sunday                   58 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-ABAP                     15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -85,7 +85,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abhinav9444/abhinav9444/main/assets/bar_graph.png)
 
 
- Last Updated on 03 Feb 2026 19:00 UTC
+ Last Updated on 03 Feb 2026 19:49 UTC
 <!--END_SECTION:waka-->
 
 <!--
