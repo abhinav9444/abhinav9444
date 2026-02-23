@@ -62,7 +62,8 @@ Sunday                   58 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-ABAP                     6 mins              █████████████████████████   100.00 % 
+ABAP                     6 mins              ███████████████████████░░   93.98 % 
+Python                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
 
 🔥 Editors: 
 VS Code                  6 mins              █████████████████████████   100.00 % 
@@ -85,7 +86,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abhinav9444/abhinav9444/main/assets/bar_graph.png)
 
 
- Last Updated on 23 Feb 2026 19:58 UTC
+ Last Updated on 23 Feb 2026 20:56 UTC
 <!--END_SECTION:waka-->
 
 <!--
