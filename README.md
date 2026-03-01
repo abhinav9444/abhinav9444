@@ -19,7 +19,7 @@
 ## 📊 Development Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2047%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-62.87%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -27,7 +27,7 @@
 
 > 📦 19.5 kB Used in GitHub's Storage 
  > 
-> 🏆 71 Contributions in the Year 2026
+> 🏆 70 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -62,14 +62,14 @@ Sunday                   62 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   26 mins             ███████████████████████░░   91.69 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-Java                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Python                   59 mins             ██████████████████████░░░   86.58 % 
+ABAP                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 
 🔥 Editors: 
-VS Code                  28 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -89,7 +89,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abhinav9444/abhinav9444/main/assets/bar_graph.png)
 
 
- Last Updated on 01 Mar 2026 18:37 UTC
+ Last Updated on 01 Mar 2026 19:24 UTC
 <!--END_SECTION:waka-->
 
 <!--
