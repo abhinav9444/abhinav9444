@@ -62,11 +62,10 @@ Sunday                   63 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     30 mins             ████████████████████████░   97.35 % 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Python                   0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.00 % 
+VS Code                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -86,7 +85,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abhinav9444/abhinav9444/main/assets/bar_graph.png)
 
 
- Last Updated on 15 Mar 2026 18:42 UTC
+ Last Updated on 15 Mar 2026 19:30 UTC
 <!--END_SECTION:waka-->
 
 <!--
