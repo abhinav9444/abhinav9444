@@ -19,7 +19,7 @@
 ## 📊 Development Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2043%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65.55%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -62,11 +62,14 @@ Sunday                   63 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 mins              ██████████████████████░░░   89.90 % 
-C++                      0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Python                   1 hr 6 mins         ████████████████████░░░░░   80.75 % 
+JSON                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+VS Code                  1 hr 22 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -86,7 +89,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abhinav9444/abhinav9444/main/assets/bar_graph.png)
 
 
- Last Updated on 07 May 2026 20:16 UTC
+ Last Updated on 07 May 2026 22:01 UTC
 <!--END_SECTION:waka-->
 
 <!--
