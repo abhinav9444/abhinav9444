@@ -27,7 +27,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 138.9 kB Used in GitHub's Storage 
+> 📦 138.8 kB Used in GitHub's Storage 
  > 
 > 🏆 654 Contributions in the Year 2026
  > 
@@ -40,21 +40,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                776 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-🌆 Daytime                3370 commits        ██████████░░░░░░░░░░░░░░░   41.27 % 
-🌃 Evening                1698 commits        █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
-🌙 Night                  2322 commits        ███████░░░░░░░░░░░░░░░░░░   28.43 % 
+🌞 Morning                779 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+🌆 Daytime                3383 commits        ██████████░░░░░░░░░░░░░░░   41.35 % 
+🌃 Evening                1698 commits        █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+🌙 Night                  2322 commits        ███████░░░░░░░░░░░░░░░░░░   28.38 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1212 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Tuesday                  617 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-Wednesday                108 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-Thursday                 137 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Monday                   1212 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Tuesday                  617 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Wednesday                124 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Thursday                 137 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 Friday                   198 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-Saturday                 2273 commits        ███████░░░░░░░░░░░░░░░░░░   27.83 % 
-Sunday                   3621 commits        ███████████░░░░░░░░░░░░░░   44.34 % 
+Saturday                 2273 commits        ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+Sunday                   3621 commits        ███████████░░░░░░░░░░░░░░   44.26 % 
 ```
 
 
@@ -93,7 +93,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abhinav9444/abhinav9444/main/assets/bar_graph.png)
 
 
- Last Updated on 14 Oct 2026 05:42 UTC
+ Last Updated on 14 Oct 2026 10:58 UTC
 <!--END_SECTION:waka-->
 
 <!--
